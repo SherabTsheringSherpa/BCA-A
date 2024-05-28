@@ -64,6 +64,4 @@ $conn->close();
 </html>
 
 
-asdasdjasdnjafs
-
 asdasdasdasdsaddssadasdsad
